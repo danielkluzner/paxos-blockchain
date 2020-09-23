@@ -1,6 +1,7 @@
 # paxos-blockchain
 
-**Distributed Systems** CS 171 | Winter 2020
+#### Distributed Systems
+CS 171 | Winter 2020
 
 Authors:
 - Daniel Kluzner
